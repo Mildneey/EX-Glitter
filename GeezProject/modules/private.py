@@ -51,9 +51,9 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "💬 Channel Updates", url=f"https://t.me/{storeglitter"), 
+                        "💬 Channel Updates", url=f"https://t.me/storeglitter"), 
                     InlineKeyboardButton(
-                        "🎈 Group Support", url=f"https://t.me/{Virtuallnihboss")   
+                        "🎈 Group Support", url=f"https://t.me/Virtuallnihboss")   
                 ],[
                     InlineKeyboardButton(
                         "🎁 Donate", url=f"https://t.me/Biarenakliatnyaaa")
